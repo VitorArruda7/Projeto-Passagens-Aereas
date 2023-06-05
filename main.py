@@ -1,15 +1,16 @@
 from flask import Flask
-from login import login_azul
+from login import robot
 app = Flask(__name__)
 
+robot = robot()
 
 @app.route('/')
 def root():
-    return "Get vai tomar no cu"
+    return "Teste"
 
 @app.route('/loginazul', methods=['POST'])
 def login():
-    login_azul()
+    robot.abrir_navegador()
 
 
 if __name__ == '__main__':
