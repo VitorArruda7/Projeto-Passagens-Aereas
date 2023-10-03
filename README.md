@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Playwright-black" alt="Playwright"/>
 <img src="https://img.shields.io/badge/Flask-orange" alt="Flask"/>
+<img src="https://img.shields.io/badge/validate__docbr-purple" alt="validate_docbr"/>
 </p>
 
 ---
